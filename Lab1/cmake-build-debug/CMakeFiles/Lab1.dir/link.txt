@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Lab1.dir/Test.cpp.o CMakeFiles/Lab1.dir/Trit.cpp.o CMakeFiles/Lab1.dir/TritSet.cpp.o  -o Lab1  lib/libgtestd.a lib/libgtest_maind.a lib/libgtestd.a -lpthread 
