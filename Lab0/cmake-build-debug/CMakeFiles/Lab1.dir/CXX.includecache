@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dementor/Programming/OOOP/Lab/Lab1/ClassCpp.cpp
+ClassCpp.h
+/home/dementor/Programming/OOOP/Lab/Lab1/ClassCpp.h
+
+/home/dementor/Programming/OOOP/Lab/Lab1/ClassCpp.h
+iostream
+-
+vector
+-
+fstream
+-
+map
+-
+list
+-
+string
+-
+algorithm
+-
+cmath
+-
+
+/home/dementor/Programming/OOOP/Lab/Lab1/main.cpp
+iostream
+-
+vector
+-
+fstream
+-
+ClassCpp.h
+/home/dementor/Programming/OOOP/Lab/Lab1/ClassCpp.h
+

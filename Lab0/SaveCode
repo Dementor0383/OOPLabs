@@ -1,0 +1,44 @@
+//
+// Created by dementor on 16.09.2020.
+//
+
+#include "ClassCpp.h"
+
+void classForCountingWords::openFStream(char **arg){
+inFile.open(arg[1]);
+outFile.open(arg[2]);
+}
+
+void classForCountingWords::closeFStream() {
+    inFile.close();
+    outFile.close();
+}
+
+string classForCountingWords::scanString(){
+    string line;
+    getline(inFile, line);
+    return line;
+}
+
+void classForCountingWords::analyzeString(){
+    string line = scanString();
+    string word;
+    int j = 0;
+    for (int i = 0; i < sizeof(line); i++){
+        if (line[i] == EOF) break;
+    if (((int)line[i] >= '0' && (int)line[i] <= '9') || ((int)line[i] >= 'A'
+    && (int)line[i] <= 'Z') || ((int)line[i] >= 'a' && (int)line[i] <= 'z')){
+       word += line[i];
+       j++;
+    }
+    else {
+        j = 0;
+        mapForCountWords[word]++;
+        word = "";
+    }
+    if (i + 1 == sizeof(line)){
+        line = scanString();
+        i = -1;
+    }
+    }
+}
