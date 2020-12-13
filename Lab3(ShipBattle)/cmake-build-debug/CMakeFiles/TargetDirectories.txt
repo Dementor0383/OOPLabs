@@ -1,0 +1,3 @@
+D:/Programming/Clion/OOPLabs/Lab3(ShipBattle)/cmake-build-debug/CMakeFiles/Lab3_ShipBattle_.dir
+D:/Programming/Clion/OOPLabs/Lab3(ShipBattle)/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Programming/Clion/OOPLabs/Lab3(ShipBattle)/cmake-build-debug/CMakeFiles/rebuild_cache.dir

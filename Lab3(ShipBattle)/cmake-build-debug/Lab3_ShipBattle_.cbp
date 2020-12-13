@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Lab3_ShipBattle_"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/Programming/Clion/OOPLabs/Lab3(ShipBattle)/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Programming/Clion/OOPLabs/Lab3(ShipBattle)/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Programming/Clion/OOPLabs/Lab3(ShipBattle)/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Programming/Clion/OOPLabs/Lab3(ShipBattle)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Programming/Clion/OOPLabs/Lab3(ShipBattle)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Lab3_ShipBattle_">
+				<Option output="D:/Programming/Clion/OOPLabs/Lab3(ShipBattle)/cmake-build-debug/Lab3_ShipBattle_.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Programming/Clion/OOPLabs/Lab3(ShipBattle)/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Programming/Clion/OOPLabs/Lab3(ShipBattle)/cmake-build-debug/Makefile&quot;  VERBOSE=1 Lab3_ShipBattle_"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Programming/Clion/OOPLabs/Lab3(ShipBattle)/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Programming/Clion/OOPLabs/Lab3(ShipBattle)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Programming/Clion/OOPLabs/Lab3(ShipBattle)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Lab3_ShipBattle_/fast">
+				<Option output="D:/Programming/Clion/OOPLabs/Lab3(ShipBattle)/cmake-build-debug/Lab3_ShipBattle_.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Programming/Clion/OOPLabs/Lab3(ShipBattle)/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Programming/Clion/OOPLabs/Lab3(ShipBattle)/cmake-build-debug/Makefile&quot;  VERBOSE=1 Lab3_ShipBattle_/fast"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Programming/Clion/OOPLabs/Lab3(ShipBattle)/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Programming/Clion/OOPLabs/Lab3(ShipBattle)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Programming/Clion/OOPLabs/Lab3(ShipBattle)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/Programming/Clion/OOPLabs/Lab3(ShipBattle)/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Programming/Clion/OOPLabs/Lab3(ShipBattle)/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Programming/Clion/OOPLabs/Lab3(ShipBattle)/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Programming/Clion/OOPLabs/Lab3(ShipBattle)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Programming/Clion/OOPLabs/Lab3(ShipBattle)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/Programming/Clion/OOPLabs/Lab3(ShipBattle)/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Programming/Clion/OOPLabs/Lab3(ShipBattle)/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Programming/Clion/OOPLabs/Lab3(ShipBattle)/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Programming/Clion/OOPLabs/Lab3(ShipBattle)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Programming/Clion/OOPLabs/Lab3(ShipBattle)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/Programming/Clion/OOPLabs/Lab3(ShipBattle)/ConsolePlayer.cpp">
+			<Option target="Lab3_ShipBattle_"/>
+		</Unit>
+		<Unit filename="D:/Programming/Clion/OOPLabs/Lab3(ShipBattle)/ConsolePlayer.h">
+			<Option target="Lab3_ShipBattle_"/>
+		</Unit>
+		<Unit filename="D:/Programming/Clion/OOPLabs/Lab3(ShipBattle)/Define.h">
+			<Option target="Lab3_ShipBattle_"/>
+		</Unit>
+		<Unit filename="D:/Programming/Clion/OOPLabs/Lab3(ShipBattle)/GameCore.cpp">
+			<Option target="Lab3_ShipBattle_"/>
+		</Unit>
+		<Unit filename="D:/Programming/Clion/OOPLabs/Lab3(ShipBattle)/GameCore.h">
+			<Option target="Lab3_ShipBattle_"/>
+		</Unit>
+		<Unit filename="D:/Programming/Clion/OOPLabs/Lab3(ShipBattle)/Helpfunction.cpp">
+			<Option target="Lab3_ShipBattle_"/>
+		</Unit>
+		<Unit filename="D:/Programming/Clion/OOPLabs/Lab3(ShipBattle)/Helpfunction.h">
+			<Option target="Lab3_ShipBattle_"/>
+		</Unit>
+		<Unit filename="D:/Programming/Clion/OOPLabs/Lab3(ShipBattle)/Map.cpp">
+			<Option target="Lab3_ShipBattle_"/>
+		</Unit>
+		<Unit filename="D:/Programming/Clion/OOPLabs/Lab3(ShipBattle)/Map.h">
+			<Option target="Lab3_ShipBattle_"/>
+		</Unit>
+		<Unit filename="D:/Programming/Clion/OOPLabs/Lab3(ShipBattle)/OptionalPlayer.cpp">
+			<Option target="Lab3_ShipBattle_"/>
+		</Unit>
+		<Unit filename="D:/Programming/Clion/OOPLabs/Lab3(ShipBattle)/OptionalPlayer.h">
+			<Option target="Lab3_ShipBattle_"/>
+		</Unit>
+		<Unit filename="D:/Programming/Clion/OOPLabs/Lab3(ShipBattle)/Player.cpp">
+			<Option target="Lab3_ShipBattle_"/>
+		</Unit>
+		<Unit filename="D:/Programming/Clion/OOPLabs/Lab3(ShipBattle)/Player.h">
+			<Option target="Lab3_ShipBattle_"/>
+		</Unit>
+		<Unit filename="D:/Programming/Clion/OOPLabs/Lab3(ShipBattle)/RandomPlayer.cpp">
+			<Option target="Lab3_ShipBattle_"/>
+		</Unit>
+		<Unit filename="D:/Programming/Clion/OOPLabs/Lab3(ShipBattle)/RandomPlayer.h">
+			<Option target="Lab3_ShipBattle_"/>
+		</Unit>
+		<Unit filename="D:/Programming/Clion/OOPLabs/Lab3(ShipBattle)/Ships.cpp">
+			<Option target="Lab3_ShipBattle_"/>
+		</Unit>
+		<Unit filename="D:/Programming/Clion/OOPLabs/Lab3(ShipBattle)/Ships.h">
+			<Option target="Lab3_ShipBattle_"/>
+		</Unit>
+		<Unit filename="D:/Programming/Clion/OOPLabs/Lab3(ShipBattle)/main.cpp">
+			<Option target="Lab3_ShipBattle_"/>
+		</Unit>
+		<Unit filename="D:/Programming/Clion/OOPLabs/Lab3(ShipBattle)/optionparser.h">
+			<Option target="Lab3_ShipBattle_"/>
+		</Unit>
+		<Unit filename="D:/Programming/Clion/OOPLabs/Lab3(ShipBattle)/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
