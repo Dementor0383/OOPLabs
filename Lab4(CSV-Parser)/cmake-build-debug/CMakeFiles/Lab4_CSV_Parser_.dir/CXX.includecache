@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dementor/Programming/OOOP/Lab/Lab4/Lab4(CSV-Parser)/CSVParser.h
+iostream
+-
+fstream
+-
+tuple
+-
+vector
+-
+limits
+-
+sstream
+-
+string
+-
+
+/home/dementor/Programming/OOOP/Lab/Lab4/Lab4(CSV-Parser)/main.cpp
+iostream
+-
+CSVParser.h
+/home/dementor/Programming/OOOP/Lab/Lab4/Lab4(CSV-Parser)/CSVParser.h
+fstream
+-
+
